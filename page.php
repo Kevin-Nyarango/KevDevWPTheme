@@ -1,0 +1,1 @@
+<H1>hello from page.php</H1>
